@@ -1,0 +1,393 @@
+.interns-ass-page {
+    background-color: #ffffff;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 100%;
+  }
+  
+  .interns-ass-page .div {
+    background-color: #ffffff;
+    width: 1440px;
+    height: 3404px;
+    position: relative;
+  }
+  
+  .interns-ass-page .menu {
+    display: flex;
+    width: 1440px;
+    height: 127px;
+    align-items: center;
+    justify-content: center;
+    gap: 402px;
+    position: absolute;
+    top: 0;
+    left: 0;
+  }
+  
+  .interns-ass-page .QR-code {
+    position: relative;
+    width: 128px;
+    height: 91px;
+    background-image: url(./img/image-2.png);
+    background-size: cover;
+    background-position: 50% 50%;
+  }
+  
+  .interns-ass-page .navbar {
+    display: flex;
+    width: 595px;
+    align-items: center;
+    justify-content: center;
+    gap: 32px;
+    position: relative;
+  }
+  
+  .interns-ass-page .text-wrapper {
+    position: relative;
+    width: fit-content;
+    margin-left: -63px;
+    font-family: var(--big-6-font-family);
+    font-weight: var(--big-6-font-weight);
+    color: #000000;
+    font-size: var(--big-6-font-size);
+    text-align: center;
+    letter-spacing: var(--big-6-letter-spacing);
+    line-height: var(--big-6-line-height);
+    white-space: nowrap;
+    font-style: var(--big-6-font-style);
+  }
+  
+  .interns-ass-page .text-wrapper-2 {
+    position: relative;
+    width: fit-content;
+    font-family: var(--big-6-font-family);
+    font-weight: var(--big-6-font-weight);
+    color: #000000;
+    font-size: var(--big-6-font-size);
+    text-align: center;
+    letter-spacing: var(--big-6-letter-spacing);
+    line-height: var(--big-6-line-height);
+    white-space: nowrap;
+    font-style: var(--big-6-font-style);
+  }
+  
+  .interns-ass-page .register-button {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    gap: 10px;
+    padding: 10px;
+    position: relative;
+    flex: 0 0 auto;
+    margin-right: -63px;
+    border-radius: 14px;
+    border: 2px solid;
+    border-color: #000000;
+  }
+  
+  .interns-ass-page .text-wrapper-3 {
+    position: relative;
+    width: fit-content;
+    margin-top: -2px;
+    font-family: "Roboto-Bold", Helvetica;
+    font-weight: 700;
+    color: #000000;
+    font-size: 17px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+  }
+  
+  .interns-ass-page .footer-dark {
+    position: absolute;
+    width: 1440px;
+    height: 401px;
+    top: 3003px;
+    left: 0;
+  }
+  
+  .interns-ass-page .MEET-THE {
+    position: absolute;
+    height: 60px;
+    top: 184px;
+    left: 270px;
+    font-family: "Scada-Bold", Helvetica;
+    font-weight: 700;
+    color: #000000;
+    font-size: 50px;
+    letter-spacing: 3px;
+    line-height: 60px;
+    white-space: nowrap;
+  }
+  
+  .interns-ass-page .frame {
+    position: absolute;
+    width: 1440px;
+    height: 2582px;
+    top: 421px;
+    left: 0;
+    background-color: #d9d9d9;
+  }
+  
+  .interns-ass-page .grid-cards {
+    display: inline-flex;
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 80px;
+    position: relative;
+    top: 153px;
+    left: 119px;
+  }
+  
+  .interns-ass-page .frame-2 {
+    display: inline-flex;
+    align-items: center;
+    gap: 45px;
+    position: relative;
+    flex: 0 0 auto;
+  }
+  
+  .interns-ass-page .intern-card {
+    display: inline-flex;
+    align-items: flex-start;
+    position: relative;
+    flex: 0 0 auto;
+  }
+  
+  .interns-ass-page .div-card {
+    display: flex;
+    flex-direction: column;
+    width: 205px;
+    height: 315px;
+    align-items: center;
+    justify-content: center;
+    gap: 10px;
+    position: relative;
+    background-color: #171717;
+    border-radius: 0px 20px 0px 20px;
+  }
+  
+  .interns-ass-page .div-img-margin {
+    display: flex;
+    flex-direction: column;
+    width: 205px;
+    height: 139px;
+    align-items: center;
+    justify-content: center;
+    gap: 10px;
+    padding: 20px 73px 3px;
+    position: relative;
+    margin-top: -3.5px;
+  }
+  
+  .interns-ass-page .div-img {
+    position: relative;
+    width: 100px;
+    height: 85px;
+    margin-left: -20.5px;
+    margin-right: -20.5px;
+    background-color: #ffffff;
+    border-radius: 15px;
+  }
+  
+  .interns-ass-page .span {
+    display: flex;
+    flex-direction: column;
+    width: 181px;
+    align-items: center;
+    justify-content: center;
+    gap: 9px;
+    padding: 1px 17px;
+    position: relative;
+    flex: 0 0 auto;
+  }
+  
+  .interns-ass-page .name {
+    position: relative;
+    width: 69.83px;
+    height: 19px;
+    font-family: "Roboto-Bold", Helvetica;
+    font-weight: 700;
+    color: #ffffff;
+    font-size: 12px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .interns-ass-page .text-wrapper-4 {
+    position: relative;
+    width: fit-content;
+    font-family: "Roboto-Bold", Helvetica;
+    font-weight: 700;
+    color: #ffffff;
+    font-size: 12px;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+  }
+  
+  .interns-ass-page .div-share-margin {
+    position: relative;
+    width: 272px;
+    flex: 0 0 auto;
+    margin-left: -33.5px;
+    margin-right: -33.5px;
+  }
+  
+  .interns-ass-page .button-margin {
+    display: inline-flex;
+    flex-direction: column;
+    height: 57px;
+    align-items: center;
+    justify-content: center;
+    gap: 10px;
+    padding: 5px 89px 26px;
+    position: relative;
+    margin-bottom: -3.5px;
+    margin-left: -25px;
+    margin-right: -25px;
+  }
+  
+  .interns-ass-page .button {
+    all: unset;
+    box-sizing: border-box;
+    display: flex;
+    width: 77px;
+    height: 27px;
+    align-items: center;
+    justify-content: center;
+    gap: 10px;
+    padding: 2px 12px;
+    position: relative;
+    margin-top: -0.5px;
+    margin-bottom: -0.5px;
+    background-color: #ffffff;
+    border-radius: 25px;
+  }
+  
+  .interns-ass-page .text {
+    position: relative;
+    width: 48.77px;
+    height: 15px;
+    font-family: "Roboto-Bold", Helvetica;
+    font-weight: 700;
+    color: #000000;
+    font-size: 13.3px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+  }
+  
+  .interns-ass-page .div-card-wrapper {
+    width: 206px;
+    height: 313px;
+    display: flex;
+    align-items: flex-start;
+    position: relative;
+  }
+  
+  .interns-ass-page .div-card-2 {
+    margin-bottom: -2px;
+    display: flex;
+    flex-direction: column;
+    width: 205px;
+    height: 315px;
+    align-items: center;
+    justify-content: center;
+    gap: 10px;
+    position: relative;
+    background-color: #171717;
+    border-radius: 20px 20px 0px 20px;
+  }
+  
+  .interns-ass-page .div-wrapper {
+    width: 201px;
+    height: 313px;
+    display: flex;
+    align-items: flex-start;
+    position: relative;
+  }
+  
+  .interns-ass-page .div-card-3 {
+    margin-bottom: -2px;
+    margin-right: -4px;
+    display: flex;
+    flex-direction: column;
+    width: 205px;
+    height: 315px;
+    align-items: center;
+    justify-content: center;
+    gap: 10px;
+    position: relative;
+    background-color: #171717;
+    border-radius: 20px 20px 0px 20px;
+  }
+  
+  .interns-ass-page .intern-card-2 {
+    width: 203px;
+    height: 315px;
+    display: flex;
+    align-items: flex-start;
+    position: relative;
+  }
+  
+  .interns-ass-page .div-card-4 {
+    margin-right: -2px;
+    display: flex;
+    flex-direction: column;
+    width: 205px;
+    height: 315px;
+    align-items: center;
+    justify-content: center;
+    gap: 10px;
+    position: relative;
+    background-color: #171717;
+    border-radius: 20px 20px 0px 20px;
+  }
+  
+  .interns-ass-page .frame-3 {
+    display: flex;
+    width: 181px;
+    align-items: center;
+    justify-content: center;
+    gap: 10px;
+    padding: 10px;
+    position: absolute;
+    top: 364px;
+    left: 188px;
+    background-color: #d9d9d9;
+    border-radius: 24px 0px 0px 0px;
+  }
+  
+  .interns-ass-page .text-wrapper-5 {
+    position: relative;
+    width: fit-content;
+    margin-top: -1px;
+    font-family: var(--big-4-font-family);
+    font-weight: var(--big-4-font-weight);
+    color: #000000;
+    font-size: var(--big-4-font-size);
+    letter-spacing: var(--big-4-letter-spacing);
+    line-height: var(--big-4-line-height);
+    white-space: nowrap;
+    font-style: var(--big-4-font-style);
+  }
+  
+  .interns-ass-page .frame-4 {
+    display: flex;
+    width: 181px;
+    align-items: center;
+    justify-content: center;
+    gap: 10px;
+    padding: 10px;
+    position: absolute;
+    top: 364px;
+    left: 369px;
+    background-color: #ffffff;
+    border-radius: 24px 24px 0px 0px;
+  }
+  
